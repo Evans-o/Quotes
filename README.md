@@ -26,7 +26,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
     <li>Css</li>
     
 <h1>Live link.</h1>
-<p>To get into the project visit the following link:https://evans-o.github.io/Akans-name.github.io/ </p>
+<p>To get into the project visit the following link:https://evans-o.github.io/Quotes/</p>
 <h1>Copyrights (c) evans.</h1>.
 <p>This website and its content is a copyright of [Portfolio].All right reserved.</p>
 <p>Any redistribution or reproduction of part or all content in any form  is prohibited other than the following:
