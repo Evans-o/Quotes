@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.css";
+body{
+    background-image:smoke-white;
+}
+li{
+    color:white;
+
+}
+ul{
+    color:white;
+}
