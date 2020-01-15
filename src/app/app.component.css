@@ -1,0 +1,21 @@
+body{
+    background-image:url("../image/image.jpg");
+    background-size:cover;
+    height:1200px;
+    padding-top:150px;
+    overflow-x: hidden;
+}
+h1{
+    position: absolute;;
+    left:575px;
+    top:-3%;
+    border:1px solid wheat;
+    background-color:black;
+    padding-left:250px;
+    padding-right:250px;
+color:white;
+font-weight: bolder;
+font-size: 40px;
+padding-top:50px;
+}
+/* #98fb98 */
